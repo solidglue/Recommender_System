@@ -1,5 +1,5 @@
 # 王树森推荐系统公开课
-基于小红书的场景讲解工业界真实的推荐系统，读书笔记。
+基于小红书的场景讲解工业界真实的推荐系统，读书笔记，更新中。
 
 ## 01 概要
 ● [推荐系统的链路](https://github.com/solidglue/Recommender_Systems/blob/master/01_Basic/01_Recommder_flow.md)  

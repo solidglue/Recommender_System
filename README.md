@@ -3,18 +3,21 @@
 
 ## 01 概要
 ●  [推荐系统的链路](https://github.com/solidglue/Recommender_Systems/blob/master/01_Basic/01_Recommder_flow.md)  
-●  AB测试  
+●  [AB测试](https://github.com/solidglue/recommender_system/blob/master/01_Basic/02_AB_test.ipynb)  
 
 ## 02 召回
-●  基于物品的协同过滤（ItemCF）  
-●  Swing召回通道  
-●  基于用户的协同过滤（UserCF）  
-●  离散特征处理  
-●  矩阵补充  
-●  双塔模型：模型和训练  
-●  双塔模型：正负样本  
-●  双塔模型：线上召回和更新  
-●  其他召回通道  
+●  [基于物品的协同过滤（ItemCF）](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_01_Item_cf.ipynb)  
+●  [Swing召回通道](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_02_Swing.ipynb)  
+●  [基于用户的协同过滤（UserCF）](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_03_User_cf.ipynb)  
+●  [离散特征处理](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_04_Discrete_feature.ipynb)  
+●  [矩阵补充](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_05_Matrix_completion.ipynb)  
+●  [双塔模型：模型和训练](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_06_Twotower_model_and_training.ipynb)  
+●  [双塔模型：正负样本](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_07_Twotower_positive_and%20negtive_samples.ipynb)  
+●  [双塔模型：线上召回和更新](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_08_Twotower_serving.ipynb)  
+●  [双塔模型+自监督学习](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_09_Twotower_and_selfupervised_learning.ipynb)  
+●  [深度召回](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_10_Deep_recall.ipynb)  
+●  [其他召回通道](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_11_Geo_author_cache_recall.ipynb)    
+●  [曝光过滤和Bloom Filter](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_12_Exposure_and_bloom_filter.ipynb)  
 
 ## 03 排序
 ●  多目标排序模型  

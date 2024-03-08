@@ -22,10 +22,10 @@
 ## 03 排序
 ●  [多目标排序模型](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_01_Multi_task_model.ipynb)    
 ●  [MMoE](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_02_mmoe.ipynb)    
-●  预估分数融合  
-●  视频播放建模  
-●  排序模型的特征  
-●  粗排模型  
+●  [预估分数融合](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_03_Weight_score.ipynb)  
+●  [视频播放建模](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_04_Video_model.ipynb)  
+●  [排序模型的特征](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_05_Ranking_model_features.ipynb)  
+●  [粗排模型](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_06_Preranking.ipynb)  
 
 ## 04 特征交叉
 ●  因子分解机FM  

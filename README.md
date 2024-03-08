@@ -20,8 +20,8 @@
 ●  [曝光过滤和Bloom Filter](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_12_Exposure_and_bloom_filter.ipynb)  
 
 ## 03 排序
-●  多目标排序模型  
-●  MMoE  
+●  [多目标排序模型](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_01_Multi_task_model.ipynb)    
+●  [MMoE](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_02_mmoe.ipynb)    
 ●  预估分数融合  
 ●  视频播放建模  
 ●  排序模型的特征  

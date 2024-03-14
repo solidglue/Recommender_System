@@ -15,7 +15,7 @@
 ●  [双塔模型：正负样本](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_07_Twotower_positive_and%20negtive_samples.ipynb)  
 ●  [双塔模型：线上召回和更新](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_08_Twotower_serving.ipynb)  
 ●  [双塔模型+自监督学习](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_09_Twotower_and_selfupervised_learning.ipynb)  
-●  [深度召回](https://github.com/solidglue/Recommender_System/blob/master/02_Recall/02_10_Deep_retrieval.ipynb)  
+●  [Deep Retrieval召回](https://github.com/solidglue/Recommender_System/blob/master/02_Recall/02_10_Deep_retrieval.ipynb)  
 ●  [其他召回通道](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_11_Geo_author_cache_recall.ipynb)    
 ●  [曝光过滤和Bloom Filter](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_12_Exposure_and_bloom_filter.ipynb)  
 

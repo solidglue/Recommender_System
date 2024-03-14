@@ -30,8 +30,8 @@
 ## 04 特征交叉
 ●  [因子分解机FM](https://github.com/solidglue/Recommender_System/blob/master/04_Cross/04_01_FM.ipynb)  
 ●  [深度交叉网络DCN](https://github.com/solidglue/Recommender_System/blob/master/04_Cross/04_02_DCN.ipynb)   
-●  LHUC网络结构  
-●  SENet Bilinear Cross  
+●  [LHUC网络结构](https://github.com/solidglue/Recommender_System/blob/master/04_Cross/04_03_LHUC.ipynb)  
+●  [SENet Bilinear Cross](https://github.com/solidglue/Recommender_System/blob/master/04_Cross/04_04_SENet_Bilinear_cross.ipynb)  
 
 ## 05 行为序列
 ●  [用户行为序列建模](https://github.com/solidglue/Recommender_System/blob/master/05_LastN/05_01_User_behavior_sequence.ipynb)  

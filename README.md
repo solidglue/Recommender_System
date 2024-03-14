@@ -1,5 +1,5 @@
 # 王树森推荐系统公开课
-基于小红书的场景讲解工业界真实的推荐系统，读书笔记，更新中。
+基于小红书的场景讲解工业界真实的推荐系统，读书笔记。
 
 ## 01 概要
 ●  [推荐系统的链路](https://github.com/solidglue/Recommender_Systems/blob/master/01_Basic/01_Recommder_flow.md)  
@@ -28,37 +28,37 @@
 ●  [粗排模型](https://github.com/solidglue/Recommender_System/blob/master/03_Rank/03_06_Preranking.ipynb)  
 
 ## 04 特征交叉
-●  因子分解机FM  
-●  深度交叉网络DCN  
+●  [因子分解机FM](https://github.com/solidglue/Recommender_System/blob/master/04_Cross/04_01_FM.ipynb)  
+●  [深度交叉网络DCN](https://github.com/solidglue/Recommender_System/blob/master/04_Cross/04_02_DCN.ipynb)   
 ●  LHUC网络结构  
 ●  SENet Bilinear Cross  
 
 ## 05 行为序列
-●  用户行为序列建模  
-●  DIN模型（注意力机制）  
-●  SIM模型（长序列建模）  
+●  [用户行为序列建模](https://github.com/solidglue/Recommender_System/blob/master/05_LastN/05_01_User_behavior_sequence.ipynb)  
+●  [DIN模型（注意力机制）](https://github.com/solidglue/Recommender_System/blob/master/05_LastN/05_02_DIN.ipynb)  
+●  [SIM模型（长序列建模）](https://github.com/solidglue/Recommender_System/blob/master/05_LastN/05_03_SIM.ipynb)  
 
 ## 06 重排
-●  物品相似性的度量、提升多样性的方法  
-●  MMR多样性算法  
-●  业务规则约束下的多样性算法  
-●  DPP多样性算法（上）  
-●  DPP多样性算法（下）  
+●  [物品相似性的度量、提升多样性的方法](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_01_Diversity.ipynb)   
+●  [MMR多样性算法](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_02_MMR.ipynb)  
+●  [业务规则约束下的多样性算法](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_03_Rerank_rules.ipynb)  
+●  [DPP多样性算法（上）](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_04_DPP_01.ipynb)   
+●  [DPP多样性算法（下）](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_05_DPP_02.ipynb)   
 
 ## 07 物品冷启动
-●  优化目标&评价指标  
-●  简单的召回通道  
-●  聚类召回  
-●  Look-Alike召回  
-●  流量调控  
-●  冷启动的AB测试  
+●  [优化目标&评价指标](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_01_Optimization_objectives_and_evaluation_metrics.ipynb)   
+●  [简单的召回通道](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_02_Simple_recall.ipynb)  
+●  [聚类召回](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_03_Clustering_recall.ipynb)  
+●  [Look-Alike召回](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_04_Look_a_like_recall.ipynb)  
+●  [流量调控](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_05_Network_flow_control.ipynb)  
+●  [冷启动的AB测试](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_06_Cold_start_abtest.ipynb)  
 
 ## 08 推荐系统章指标的方法
-●  概述  
-●  召回  
-●  排序  
-●  多样性  
-●  特征用户人群  
-●  交互行为（关注、转发和评论）  
+●  [概述](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_01_Improvement_basic.ipynb)  
+●  [召回](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_02_Improvement_recall.ipynb)  
+●  [排序](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_03_Improvement_rank.ipynb)  
+●  [多样性](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_04_Improvement_diversoty.ipynb)  
+●  [特征用户人群](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_05_Improvement_special_user_group.ipynb)  
+●  [交互行为（关注、转发和评论）](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_06_Improvement_interaction_behavior.ipynb)  
 
 

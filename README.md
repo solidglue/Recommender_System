@@ -2,7 +2,7 @@
 基于小红书的场景讲解工业界真实的推荐系统，读书笔记。
 
 ## 01 概要
-●  [推荐系统的链路](https://github.com/solidglue/Recommender_Systems/blob/master/01_Basic/01_Recommder_flow.md)  
+●  [推荐系统的链路](https://github.com/solidglue/Recommender_Systems/blob/master/01_Basic/01_Recommder_flow.ipynb)  
 ●  [AB测试](https://github.com/solidglue/recommender_system/blob/master/01_Basic/02_AB_test.ipynb)  
 
 ## 02 召回

@@ -53,7 +53,7 @@
 ●  [流量调控](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_05_Network_flow_control.ipynb)  
 ●  [冷启动的AB测试](https://github.com/solidglue/Recommender_System/blob/master/07_Cold_start/07_06_Cold_start_abtest.ipynb)  
 
-## 08 推荐系统章指标的方法
+## 08 推荐系统涨指标的方法
 ●  [概述](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_01_Improvement_basic.ipynb)  
 ●  [召回](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_02_Improvement_recall.ipynb)  
 ●  [排序](https://github.com/solidglue/Recommender_System/blob/master/08_Improvement/08_03_Improvement_rank.ipynb)  

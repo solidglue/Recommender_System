@@ -68,7 +68,7 @@
 
 ## 二、TensorFlow2模型训练 (Trainning Models)
 以"DNN_for_YouTube_Recommendations"模型和电影评分数据集（ml-1m）为基础，详尽的展示了如何基于TensorFlow2训练推荐系统排序模型。  
-● [YouTube深度排序模型(多目标、多值embedding)](https://github.com/solidglue/DNN_for_YouTube_Recommendations)  
+● [YouTube深度排序模型(多值embedding、多目标学习)](https://github.com/solidglue/DNN_for_YouTube_Recommendations)  
 
 
 ## 三、模型推理服务Golang (Inferecnce Services)

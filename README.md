@@ -1,5 +1,6 @@
 # 推荐系统
-本项目全面介绍了工业级深度学习推荐系统的理论知识、如何基于TensorFlow2进行模型训练和高性能高可用Golang模型推理服务。
+推荐系统从入门到精通，本项目全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。以及一些Sklean和TensorFlow编程基础知识。Comprehensively introduced the theory of industrial recommender system base on deep learning, how to trainning models based on TensorFlow2, how to implement the high-performance、high-concurrency and high-available inference services base on Golang.
+
 
 ## 一、推荐系统理论 - 王树森推荐系统公开课
 基于小红书的场景讲解工业界真实的推荐系统，读书笔记。
@@ -71,5 +72,10 @@
 
 
 ## 三、模型推理服务Golang
-基于Goalng、Docker和微服务思想实现了推荐系统高性能高可用推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每次可处理上千万次推理请求。  
+基于Goalng、Docker和微服务思想实现了高并发、高性能和高可用的推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每次可处理上千万次推理请求。  
 ● [推荐系统推理服务Golang](https://github.com/solidglue/Recommender_System_Inference_Services)  
+
+
+## 四、编程基础
+●  [机器学习Sklean入门教程](https://github.com/solidglue/Machine_Learning_Sklearn_Examples)  
+●  [深度学习TensorFlow入门教程](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)  

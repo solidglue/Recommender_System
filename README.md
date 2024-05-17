@@ -66,10 +66,10 @@
 
 
 ## 二、TensorFlow2模型训练
-以"DNN_for_YouTube_Recommendations"模型和电影评分数据集（ml-1m）为基础，详尽的展示了如何基于TensorFlow2训练推荐系统排序模型。
-● [DNN_for_YouTube_Recommendations](https://github.com/solidglue/DNN_for_YouTube_Recommendations)  
+以"DNN_for_YouTube_Recommendations"模型和电影评分数据集（ml-1m）为基础，详尽的展示了如何基于TensorFlow2训练推荐系统排序模型。  
+● [YouTube深度排序模型(多目标、多值embedding)](https://github.com/solidglue/DNN_for_YouTube_Recommendations)  
 
 
 ## 三、模型推理服务Golang
-基于Goalng、Docker和微服务思想实现了推荐系统高性能高可用推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每次可处理上千万次推理请求。
-● [Recommender_System_Inference_Services](https://github.com/solidglue/Recommender_System_Inference_Services)  
+基于Goalng、Docker和微服务思想实现了推荐系统高性能高可用推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每次可处理上千万次推理请求。  
+● [推荐系统推理服务Golang](https://github.com/solidglue/Recommender_System_Inference_Services)  

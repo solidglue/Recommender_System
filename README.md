@@ -72,7 +72,7 @@
 
 
 ## 三、模型推理服务Golang(Inferecnce Services)
-基于Goalng、Docker和微服务思想实现了高并发、高性能和高可用的推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每次可处理上千万次推理请求。  
+基于Goalng、Docker和微服务思想实现了高并发、高性能和高可用的推荐系统推理微服务，包括多种召回/排序服务，并提供多种接口访问方式（REST、gRPC和Dubbo）等，每日可处理上千万次推理请求。  
 ● [推荐系统推理服务Golang](https://github.com/solidglue/Recommender_System_Inference_Services)  
 
 

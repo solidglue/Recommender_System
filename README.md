@@ -1,6 +1,6 @@
 # 推荐系统
 推荐系统从入门到精通，本项目全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。以及一些Sklean和TensorFlow编程基础知识。Comprehensively introduced the theory of industrial recommender system base on deep learning, how to trainning models based on TensorFlow2, how to implement the high-performance、high-concurrency and high-available inference services base on Golang.
-
+注意：第一部分的理论知识在本仓库，第二、三、四部分的代码在其他仓库，点击链接即可跳转。
 
 ## 一、推荐系统理论 - 王树森推荐系统公开课
 基于小红书的场景讲解工业界真实的推荐系统，读书笔记。

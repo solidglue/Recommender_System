@@ -13,7 +13,7 @@
 王树森推荐系统公开课 - 基于小红书的场景讲解工业界真实的推荐系统，读书笔记。
 
 ### 01 概要 (Introduce)
-●  [推荐系统的链路](https://github.com/solidglue/Recommender_System/blob/master/01_Basic/01_01_Recommend_flow.ipynb)    [              (Backup Link)](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/01_Basic/01_01_Recommend_flow.ipynb)]  
+●  [推荐系统的链路](https://github.com/solidglue/Recommender_System/blob/master/01_Basic/01_01_Recommend_flow.ipynb)              [(Backup Link)](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/01_Basic/01_01_Recommend_flow.ipynb)]  
 ●  [AB测试](https://github.com/solidglue/Recommender_System/blob/master/01_Basic/01_02_AB_test.ipynb)     [         (Backup Link)](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/01_Basic/01_02_AB_test.ipynb)  
 
 ### 02 召回 (Recall)

@@ -4,8 +4,8 @@
 
 
 ## 注意
-如果Github打开jupyter notebook发生错误，可以点击“备用链接”通过 https://nbviewer.org 间接访问单个链接。  
-或者通过以下链接访问整个项目的备用链接：  
+如果通过Github站内超链接打开Jupyter Notebook文件发生错误，可以点击根据 https://nbviewer.org 生成的“备用链接”间接访问对应文件。  
+或者通过以下链接访问整个项目的站外备用链接，注意点击站外备用链接里的非Jupyter Notebook格式文件会跳转回到Github仓库内：  
 ●  [**Recommender_System**](https://nbviewer.org/github/solidglue/Recommender_System/tree/master/)  
 
 

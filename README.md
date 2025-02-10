@@ -16,7 +16,7 @@
 ●  [**推荐系统的链路**](https://github.com/solidglue/Recommender_System/blob/master/01_Basic/01_01_Recommend_flow.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/01_Basic/01_01_Recommend_flow.ipynb)]  
 ●  [**AB测试**](https://github.com/solidglue/Recommender_System/blob/master/01_Basic/01_02_AB_test.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/01_Basic/01_02_AB_test.ipynb)  
 
-### 02 召回 (Recall)
+### 02 召回 (Retrieval)
 ●  [**基于物品的协同过滤（ItemCF）**](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_01_Item_cf.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/02_Recall/02_01_Item_cf.ipynb)  
 ●  [**Swing召回通道**](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_02_Swing.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/02_Recall/02_02_Swing.ipynb)  
 ●  [**基于用户的协同过滤（UserCF）**](https://github.com/solidglue/recommender_system/blob/master/02_Recall/02_03_User_cf.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/02_Recall/02_03_User_cf.ipynb)  
@@ -49,7 +49,7 @@
 ●  [**DIN模型（注意力机制）**](https://github.com/solidglue/Recommender_System/blob/master/05_LastN/05_02_DIN.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/05_LastN/05_02_DIN.ipynb)  
 ●  [**SIM模型（长序列建模）**](https://github.com/solidglue/Recommender_System/blob/master/05_LastN/05_03_SIM.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/05_LastN/05_03_SIM.ipynb)  
 
-### 06 重排 (Re-rank)
+### 06 重排 (Re-ranking)
 ●  [**物品相似性的度量、提升多样性的方法**](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_01_Diversity.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/06_Rerank/06_01_Diversity.ipynb)   
 ●  [**MMR多样性算法**](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_02_MMR.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/06_Rerank/06_02_MMR.ipynb)  
 ●  [**业务规则约束下的多样性算法**](https://github.com/solidglue/Recommender_System/blob/master/06_Rerank/06_03_Rerank_rules.ipynb)       [~~*(备用链接)*~~](https://nbviewer.org/github/solidglue/Recommender_System/blob/master/06_Rerank/06_03_Rerank_rules.ipynb)  
@@ -86,3 +86,7 @@
 ## 四、编程基础 (Sklearn/TensorFlow)
 ●  [**机器学习Sklearn入门教程**](https://github.com/solidglue/Machine_Learning_Sklearn_Examples)  
 ●  [**深度学习TensorFlow入门教程**](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)  
+
+## 五、经典论文（Classic Papers）
+●  [**推荐系统经典论文**](https://github.com/solidglue/Classic_Papers_On_Recommender_System)  
+
